@@ -87,6 +87,7 @@ Each of the four numeric columns is ranked 1–39 (lowest to highest value = low
 ```
 pandas
 requests
+time
 ```
 Install with: `pip install pandas requests`
 
